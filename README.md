@@ -8,7 +8,7 @@ How to use:
 docker run --rm shapsough/utilities:pass-gen-v1.0
 
 Sample Output:
-
+```
 ################################################
 ### Random Pass Generator By Eslam Shapsough ###
 ################################################
@@ -82,7 +82,7 @@ Length = 27 : )L_waW!em=Xql#L<LCLA#<w_e1&
 Length = 28 : <DCktRHLODLfU4ya=mFOX67E)dmX
 Length = 29 : vD8Sr)82Z#iOdlV&tQ2Dwyx!xZKtF
 Length = 30 : Xf>i_SP9i#(nQeWbXDOXsTvGIJDaYz
-
+```
 
 
 

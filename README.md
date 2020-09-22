@@ -5,7 +5,7 @@ Docker Image To Create Random Passwords Using PHP To Use Where Needed
 
 How to use:
 
-docker run --rm shapsough/utilities:pass-gen-v1.0
+docker run --rm shapsough/utilities:pass-gen
 
 Sample Output:
 ```
